@@ -13,9 +13,7 @@
 <template>
   <div class="mx-auto mt-4 max-w-sm">
     <div class="mb-10 flex items-center justify-between">
-      <a target="_blank" href="https://productdevbook.com"
-        >productdevbook.com</a
-      >
+      
       <div class="flex space-x-2">
         <TemLanguageChange />
         <TemColorChange />
